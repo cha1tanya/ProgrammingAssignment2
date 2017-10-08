@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Objective of the following functions is to cache the inverse of a matrix so that we do not need to compute the inverse repeatedly  
+## This is done using two functions
 
 ## Write a short comment describing this function
 
